@@ -1,5 +1,4 @@
 Ext.define("TSScratchApp", {
-
     extend: 'Rally.app.App',
     componentCls: 'app',
     logger: new Rally.technicalservices.Logger(),
