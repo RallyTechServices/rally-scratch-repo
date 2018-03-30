@@ -1,4 +1,4 @@
-// comment: I'm making changes
+// 
 Ext.define("TSScratchApp", {
     extend: 'Rally.app.App',
     componentCls: 'app',
