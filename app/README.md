@@ -2,6 +2,8 @@
 
 ## Summary/Description
 
+There is nothing in this screenshot yet:
+
 ![screenshot](./images/screenshot.png "This is an example")
 
 ## Development Notes
