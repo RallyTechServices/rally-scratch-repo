@@ -13,7 +13,9 @@ Ext.define("TSScratchApp", {
     integrationHeaders : {
         name : "TSScratchApp"
     },
-                        
+            
+    
+    /// asdfasd
     launch: function() {
         var me = this;
         this.setLoading("Loading stuff...");
