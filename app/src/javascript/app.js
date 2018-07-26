@@ -12,6 +12,8 @@ Ext.define("TSScratchApp", {
     integrationHeaders : {
         name : "TSScratchApp"
     },
+    
+    // comment your methods!!
                         
     launch: function() {
         var me = this;
