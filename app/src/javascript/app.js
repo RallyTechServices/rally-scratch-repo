@@ -9,7 +9,6 @@ Ext.define("TSScratchApp", {
         {xtype:'container',itemId:'message_box',tpl:'Hello, <tpl>{_refObjectName}</tpl>'},
         {xtype:'container',itemId:'display_box'}
     ],
-
     integrationHeaders : {
         name : "TSScratchApp"
     },
